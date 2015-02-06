@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Ppl security SMS</string>
+
+    <string name="lable_phoneNo">شماره تلفن</string>
+
+    <string name="lable_txt_txt">متن پیام :</string>
+
+    <string name="btn_send">ارسال</string>
+
+</resources>
